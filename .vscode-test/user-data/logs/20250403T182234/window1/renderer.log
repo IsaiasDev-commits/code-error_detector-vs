@@ -1,0 +1,9 @@
+2025-04-03 18:22:35.228 [info] Started local extension host with pid 10732.
+2025-04-03 18:22:35.372 [info] Loading development extension at c:\Users\PC\Desktop\code-error-detector
+2025-04-03 18:22:35.608 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-03 18:22:36.006 [info] [0m%s%s[0m  
+2025-04-03 18:22:36.007 [info] [0m%s%s[0m    Extension Test Suite
+2025-04-03 18:22:36.030 [info]   [32m  ✔[0m[90m %s[0m La extensión debería estar activa
+2025-04-03 18:22:36.062 [info] Extensión "code-error-detector" activada.
+2025-04-03 18:22:36.064 [info]   [32m  ✔[0m[90m %s[0m El comando scanErrors debería ejecutarse sin errores
+2025-04-03 18:22:36.065 [info] [92m [0m[32m %d passing[0m[90m (%s)[0m 2 69ms

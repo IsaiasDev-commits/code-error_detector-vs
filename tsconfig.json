@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+	  "module": "Node16",
+	  "target": "ES2022",
+	  "outDir": "out",
+	  "lib": [
+		"ES2022"
+	  ],
+	  "sourceMap": true,
+	  "rootDir": "src",
+	  "strict": true,   /* enable all strict type-checking options */
+	  "esModuleInterop": true,  /* Habilitar interoperabilidad con módulos CommonJS */
+	  "skipLibCheck": true,     /* Omitir la comprobación de bibliotecas (para mejorar el rendimiento) */
+	  "noUnusedLocals": true,   /* Reportar errores de variables no usadas */
+	  "noUnusedParameters": true, /* Reportar errores de parámetros no usados */
+	  "resolveJsonModule": true  /* Permitir importar módulos JSON */
+	}
+  }
+  
+  
